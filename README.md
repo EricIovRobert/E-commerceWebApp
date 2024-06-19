@@ -1,4 +1,4 @@
-TEAM PROJECT!
+TEAM PROJECT in collaboration with IBM!
 
 <br> Welcome to an ecommerce-web app, to run the program clone the repo, open your terminal while you are in vscode and run "npm i" in the ewa_frontend folder to install used modules and "npm start" in the main folder to start the app, then click on the local host link.
 <br> Also , the project will not work without the .env file, create it in the ewa_backend directory and add this to it: 
